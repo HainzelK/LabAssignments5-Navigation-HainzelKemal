@@ -5,7 +5,7 @@ Pastikan ada editor kode seperti Android Studio atau Visual Studio Code.
 ### Langkah-langkah Instalasi
 1. Clone repositori ini ke komputer Anda:
    ```bash
-    git clone https://github.com/HainzelK/LabActivity-RoutesNavigation.git
+    https://github.com/HainzelK/LabAssignments5-Navigation-HainzelKemal.git
     ```
    atau melalui tombol open with github desktop jika anda memiliki github desktop
    kemudian klik clone
